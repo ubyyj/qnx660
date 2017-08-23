@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Built-By: jenkins
+Eclipse-BundleShape: dir
+Bundle-Name: %fragmentName.win32.x86
+Bundle-Localization: plugin
+Created-By: Apache Maven
+Bundle-Vendor: %providerName
+Fragment-Host: org.eclipse.cdt.core;bundle-version="[5.2.0,6.0.0)"
+Build-Jdk: 1.7.0_25
+Bundle-Version: 5.2.0.v201401291946
+Eclipse-PlatformFilter: (&(osgi.os=win32)(osgi.arch=x86))
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.cdt.core.win32.x86;singleton:=true
+Archiver-Version: Plexus Archiver
+
